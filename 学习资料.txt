@@ -1,0 +1,4 @@
+http://es6.ruanyifeng.com/#docs/intro 阮一峰es6入门
+https://www.cnblogs.com/zery/p/3438845.html 正则表达式
+https://www.cnblogs.com/lijiayi/p/githubpages.html 如何配置博客
+http://www.bootcdn.cn/   cdn加速，引入js，css使用
